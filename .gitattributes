@@ -1,0 +1,2 @@
+FaceAndEmotionsRecognition/dataset/train/*.jpg filter=lfs diff=lfs merge=lfs -text
+FaceAndEmotionsRecognition/dataset/validation/*.jpg filter=lfs diff=lfs merge=lfs -text
